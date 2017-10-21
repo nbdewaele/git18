@@ -1,5 +1,3 @@
 # git18
 
-```ruby
-puts "Howdy"
-```
+This is a partnered version control exercise.
